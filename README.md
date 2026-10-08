@@ -1,4 +1,3 @@
-[readme_md.md](https://github.com/user-attachments/files/33187638/readme_md.md)
 # TrigoPV — Dimensionado y Análisis de Instalaciones Fotovoltaicas
 
 [![Última Versión](https://img.shields.io/github/v/release/ajmartostorres-hub/TRIGOPV?style=flat-square&color=blue)](https://github.com/ajmartostorres-hub/TRIGOPV/releases)
