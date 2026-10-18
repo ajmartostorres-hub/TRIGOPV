@@ -11,7 +11,7 @@ Combina la precisión de la API oficial de **PVGIS (European Commission Joint Re
 
 ---
 
-## 📥 Descarga e Instalación (.exe)
+## 📥 Descarga e Instalación (.exe y .deb) 
 
 No necesitas instalar Python ni configurar dependencias. Puedes ejecutar **TrigoPV** directamente en tu equipo Windows:
 
@@ -19,10 +19,10 @@ No necesitas instalar Python ni configurar dependencias. Puedes ejecutar **Trigo
    Dirígete a la sección de [**Lanzamientos / Releases**](https://github.com/ajmartostorres-hub/TRIGOPV/releases).
 
 2. **Descarga el ejecutable:**
-   Obtén la última versión del archivo `TrigoPV.exe` (o el paquete `.zip` correspondiente).
+   Obtén la última versión del archivo `TrigoPV.exe y TrigoPV.deb` (o el paquete `.zip` correspondiente).
 
 3. **Ejecuta la aplicación:**
-   Haz doble clic sobre `TrigoPV.exe` para iniciar el programa de forma directa.
+   Haz doble clic sobre `TrigoPV.exe y TrigoPV.deb` para iniciar el programa de forma directa.
 
 ---
 
