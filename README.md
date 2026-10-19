@@ -5,7 +5,7 @@
 [![Licencia](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/GUI-PySide6%20%2F%20Qt6-green.svg?style=flat-square)](https://pyside.org)
 
-**TrigoPV** es una aplicación de escritorio para **Windows** diseñada para la simulación, dimensionado y análisis técnico-económico de instalaciones solares fotovoltaicas.
+**TrigoPV** es una aplicación de escritorio para **Windows y Linux** diseñada para la simulación, dimensionado y análisis técnico-económico de instalaciones solares fotovoltaicas.
 
 Combina la precisión de la API oficial de **PVGIS (European Commission Joint Research Centre)** con mapas interactivos de **MapLibre GL** y **Nominatim** para ofrecer una herramienta integral de cálculo de autoconsumo y producción energética sin necesidad de configuraciones avanzadas ni entornos de programación.
 
@@ -51,7 +51,7 @@ Al ejecutar un archivo `.exe` descargado de GitHub que no cuenta con un certific
 
 ## 💻 Requisitos del Sistema
 
-* **Sistema Operativo:** Windows 10, Windows 11 (64-bit).
+* **Sistema Operativo:** Windows 10, Windows 11 (64-bit) o Linux .
 * **Conexión a Internet:** Necesaria para cargar las capas del mapa interactivo y realizar las consultas en tiempo real a la API de PVGIS.
 * **Espacio libre en disco:** ~150 MB.
 
