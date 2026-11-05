@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/cabecera.jpg"
+       alt="TrigoPV - Dimensionado y Análisis de Instalaciones Fotovoltaicas"
+       width="100%">
+</p>
+
+
+
 # TrigoPV — Dimensionado y Análisis de Instalaciones Fotovoltaicas
 
 [![Última Versión](https://img.shields.io/github/v/release/ajmartostorres-hub/TRIGOPV?style=flat-square&color=blue)](https://github.com/ajmartostorres-hub/TRIGOPV/releases)
